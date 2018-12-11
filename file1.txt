@@ -1,0 +1,21 @@
+Edit File 1 future 1
+bbbbbbbbbbbbbbb
+cccccccccccccccc
+aaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbb
+cccccccccccccccc
+bbbbbbbbbbbbbbb
+cccccccccccccccc
+cccccccccccccccc
+aaaaaaaaaaaaaaa
+cccccccccccccccc
+================
+if (i > 0)
+{
+	4=5
+}
+else
+{
+	6-7
+}
+================
